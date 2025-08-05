@@ -1,3 +1,3 @@
-Some other file says hello
+Some other file says hello (new change added from forked user)
 hello from feat-2
 hello from feat-3
